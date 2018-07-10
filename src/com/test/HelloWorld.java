@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("git");
 		System.out.println("github");
 		System.out.println("github.com");
+		System.out.println("http://github.com");
 	}
 
 }
